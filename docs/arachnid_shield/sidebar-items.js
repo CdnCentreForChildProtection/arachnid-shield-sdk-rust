@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArachnidShieldError","MatchType","MediaClassification"],"struct":["ApiUser","ArachnidShieldWithVersion","AsyncArachnidShieldWithVersion","ErrorDetail","MatchDetails","NearMatchDetails","ScanMediaFromBytes","ScanMediaFromUrl","ScanPdqHashes","ScannedMedia","ScannedPdqHashes","V1"],"type":["ArachnidShield","AsyncArachnidShield"]};

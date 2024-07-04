@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["arachnid_shield","cfg_if","pin_project_lite","unicode_ident"];
