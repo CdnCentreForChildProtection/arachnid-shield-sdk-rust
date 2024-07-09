@@ -6,6 +6,8 @@ An SDK for consuming the [Arachnid Shield API](https://shield.projectarachnid.co
 
 First, obtain login credentials by contacting [Project Arachnid](https://shield.projectarachnid.com/). 
 
+[Crate Documentation](https://docs.rs/arachnid-shield/latest/arachnid_shield/)
+
 ### Sync client
 
 You may use the `ArachnidShield` client that has all the methods needed to consume the Arachnid Shield API.
