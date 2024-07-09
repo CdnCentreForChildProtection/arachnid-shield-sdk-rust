@@ -4,7 +4,7 @@ An SDK for consuming the [Arachnid Shield API](https://shield.projectarachnid.co
 
 ## Usage
 
-First, obtain login credentials by contacting [Project Arachnid](https://projectarachnid.ca/en/contact). 
+First, obtain login credentials by contacting [Project Arachnid](https://shield.projectarachnid.com/). 
 
 ### Sync client
 
