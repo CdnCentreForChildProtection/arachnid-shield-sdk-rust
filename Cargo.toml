@@ -1,6 +1,6 @@
 [package]
 name = "arachnid-shield"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["CdnCentreForChildProtection <noc@protectchildren.ca>"]
 readme = "README.md"
@@ -11,6 +11,9 @@ homepage = "https://github.com/CdnCentreForChildProtection/arachnid-shield-sdk-r
 repository = "https://github.com/CdnCentreForChildProtection/arachnid-shield-sdk-rust"
 keywords = ["arachnid-shield", "sdk", "arachnid"]
 license-file = "LICENSE.md"
+exclude = [
+  "docs/"
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
