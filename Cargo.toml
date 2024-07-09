@@ -2,9 +2,15 @@
 name = "arachnid-shield"
 version = "0.1.0"
 edition = "2021"
-authors = ["Aalekh Patel <aalekh@protectchildren.ca>"]
+authors = ["CdnCentreForChildProtection <noc@protectchildren.ca>"]
 readme = "README.md"
-publish = false
+publish = true
+description = "The official SDK for Arachnid Shield"
+documentation = "https://github.com/CdnCentreForChildProtection/arachnid-shield-sdk-rust"
+homepage = "https://github.com/CdnCentreForChildProtection/arachnid-shield-sdk-rust"
+repository = "https://github.com/CdnCentreForChildProtection/arachnid-shield-sdk-rust"
+keywords = ["arachnid-shield", "sdk", "arachnid"]
+license-file = "LICENSE.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
